@@ -1,8 +1,6 @@
-
 noms_articles = []
 prix_articles = []
 quantites_articles = []
-
 
 for i in range(2):
     nom_article = input(f"Saisir le nom de l'article {i + 1} : ")
@@ -21,7 +19,6 @@ for i in range(2):
     montant_ttc = montant_ht + (montant_ht * 0.2)
     montants_totaux.append(montant_ttc)
     montant_total_facture += montant_ttc
-
 
 for i in range(2):
     print(f"\nDétails de l'article {i + 1}:")

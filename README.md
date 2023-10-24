@@ -1,8 +1,8 @@
-# Mon référentiel de Travaux Pratiques en Python
+# Mon Référentiel de Travaux Pratiques en Python
 
-Ce référentiel contient une collection de tous les Travaux Pratiques (TP) que j'ai réalisés lors de mes études en Python. Vous trouverez ici une variété de projets, allant des exercices simples aux projets plus complexes, couvrant un large éventail de concepts en Python.
+Bienvenue dans mon référentiel qui rassemble tous les Travaux Pratiques (TP) que j'ai réalisés au cours de mes études en Python. Vous trouverez ici une variété de projets, couvrant un large éventail de concepts de programmation en Python.
 
-## Table des matières
+## Table des Matières
 
 1. [Introduction](#introduction)
 2. [Structure du Référentiel](#structure-du-référentiel)
@@ -13,29 +13,27 @@ Ce référentiel contient une collection de tous les Travaux Pratiques (TP) que 
 
 ## Introduction
 
-Ce référentiel a été créé pour suivre ma progression en Python au cours de mes études. Il me sert également de portefeuille pour montrer mes compétences en programmation Python aux futurs employeurs et collaborateurs.
+Ce référentiel a été créé pour suivre ma progression en Python au cours de mes études. Il sert également de portfolio pour démontrer mes compétences en programmation Python aux futurs employeurs et collaborateurs.
 
 ## Structure du Référentiel
 
 Le référentiel est organisé de la manière suivante :
 
-- **/TP1** : Contient le code source et la documentation du TP 1.
-- **/TP2** : Contient le code source et la documentation du TP 2.
-- ...
-- **/TPn** : Contient le code source et la documentation du TP n.
+- **/TP1** : Contient le code source et la documentation du TP 1 sur les bases de Python.
+- **/TP2** : Contient le code source et la documentation du TP 2 sur les structures de contrôle.
+- **/TP3** : Contient le code source et la documentation du TP 3 sur les fonctions et modules.
+- **/TP4** : Contient le code source et la documentation du TP 4 sur la programmation orientée objet.
 
 ## Liste des TP
 
-Voici une liste de certains des TP que vous trouverez dans ce référentiel :
+Voici une liste des TP disponibles dans ce référentiel :
 
 1. [TP 1 : Les bases de Python](/TP1)
 2. [TP 2 : Structures de contrôle](/TP2)
 3. [TP 3 : Fonctions et Modules](/TP3)
-4. [TP 4 : Manipulation de fichiers](/TP4)
-5. [TP 5 : Programmation orientée objet](/TP5)
-6. [TP 6 : Bibliothèques et modules tiers](/TP6)
+4. [TP 4 : Programmation orientée objet](/TP4)
 
-Cette liste n'est pas exhaustive, et de nouveaux TP seront ajoutés au fil de mon parcours académique.
+Chaque TP est accompagné de son propre README, avec des instructions détaillées pour son utilisation et sa compréhension.
 
 ## Comment Utiliser ce Référentiel
 

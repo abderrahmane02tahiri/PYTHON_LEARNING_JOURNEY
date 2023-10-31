@@ -1,8 +1,14 @@
 import math
 def somme(m, n):
     total = 0
-    for i in range(m, n + 1):
-        total += i
+    if m < n :
+        for i in range(m , n + 1):
+            total += i
+
+    else :
+        for i in range(n , m + 1):
+            total += i
+
     return total
 
 def delta(a, b, c):

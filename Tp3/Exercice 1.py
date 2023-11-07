@@ -70,3 +70,33 @@ def vitesse(distance, temps):
     temps_en_secondes = conversion_temps(*temps)
     vitesse_ms = distance_en_metres / temps_en_secondes
     return vitesse_ms
+
+
+print("Test de la fonction somme:")
+print(somme(1, 5))  
+print("\nTest de la fonction delta:")
+print(delta(1, 5, 6))
+
+print("\nTest de la fonction NombreRacine:")
+print(NombreRacine(1, 5, 6))
+
+print("\nTest de la fonction AfficheNombreRacine:")
+AfficheNombreRacine(1, 5, 6)
+
+print("\nTest de la fonction Racine1:")
+print(Racine1(1, 5, 6))
+
+print("\nTest de la fonction Racine2:")
+print(Racine2(1, 5, 6))
+
+print("\nTest de la fonction conversion_temps:")
+print(conversion_temps(1, 30, 10))
+
+print("\nTest de la fonction temps_ecoule:")
+print(temps_ecoule(1, 30, 10, 0, 45, 20))
+
+print("\nTest de la fonction conversion_distance:")
+print(conversion_distance(3, 500, 25))
+
+print("\nTest de la fonction vitesse:")
+print(vitesse((3, 500, 25), (0, 45, 20)))
